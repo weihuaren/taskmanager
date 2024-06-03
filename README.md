@@ -4,6 +4,8 @@ write a web application for managing tasks
 
 ### step 1
 python backend
+I recommend either:
+https://fastapi.tiangolo.com/ or https://flask.palletsprojects.com/en/3.0.x/
 initially store data in memory
 I expect the following APIs
 ```
