@@ -26,3 +26,19 @@ payload
 response
 202, {"message": "ticket updated"}
 Update an existing ticket
+
+DELETE /task/{ticket_id}
+response
+202, {"message": "ticket deleted"}
+Delete a task
+
+
+### step 2
+postgres relational database
+
+### step 3 
+add more apis
+search tickets, sort etc
+
+### step 4
+add a front end UI for your apis
