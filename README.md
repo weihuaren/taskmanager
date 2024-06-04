@@ -41,6 +41,9 @@ Delete a task
 
 ### step 2
 postgres relational database
+* Setup postgres database https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
+* Python library for postgres connection https://www.psycopg.org/docs/
+
 
 ### step 3 
 add more apis
