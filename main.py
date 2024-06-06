@@ -11,7 +11,7 @@ tasks = {
 
 @app.get("/")
 def read_root():
-    return {"Service": "Task Manager"}
+    return {"Service": "Task Manager changed"}
 
 @app.get("/tasks")
 def get_all_tasks():
